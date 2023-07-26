@@ -1,0 +1,16 @@
+.entry-form__title{
+    color:
+    #FFFFFF;
+    font-size: 24px;
+    line-height: 31px;
+    text-align: center;
+    margin: 0 auto 50px;
+  }
+  @media screen and (max-width: 425px){
+    .entry-form__title{
+      font-size: 20px;
+      line-height: 24px;
+      margin: 0 auto 40px;
+    }
+  }
+  

@@ -1,0 +1,13 @@
+.entry-form__link {
+  color: #ffffff;
+  font-size: 14px;
+  line-height: 17px;
+  text-decoration: none;
+  margin: 15px auto 0;
+}
+
+@media screen and (max-width: 425px) {
+    .entry-form__link {
+    margin: 20px auto 0;
+  }
+}

@@ -1,0 +1,15 @@
+.entry-form__input {
+  color: #cccccc;
+  border: none;
+  border-bottom: solid 2px #cccccc;
+  background-color: #000;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  padding-bottom: 6px;
+  margin-bottom: 30px;
+  outline: none;
+}
+.entry-form__input:focus::placeholder {
+  color: transparent;
+}
